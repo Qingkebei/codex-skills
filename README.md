@@ -4,9 +4,9 @@ Qingkebei 的个人 Codex 技能集合。每个技能保存在 `skills/` 下的�
 
 ## 技能
 
-| 技能 | 功能 | 初始版本 |
+| 技能 | 功能 | 当前版本 |
 |---|---|---|
-| [seven-step-paper-notes](skills/seven-step-paper-notes/SKILL.md) | 七步论文批判性阅读与 Obsidian Markdown 笔记生成 | `seven-step-paper-notes/v0.1.0` |
+| [seven-step-paper-notes](skills/seven-step-paper-notes/SKILL.md) | 七步论文批判性阅读与 Obsidian Markdown 笔记生成 | `seven-step-paper-notes/v0.2.0` |
 
 ## 使用
 
@@ -23,6 +23,7 @@ $seven-step-paper-notes 使用七步法分析这篇论文，并生成 Obsidian �
 - `main` 保存当前开发版本，每次修改通过 Git commit 记录。
 - 稳定版本使用 `<skill-name>/v<版本号>` 标签；各技能可独立编号。
 - `seven-step-paper-notes/v0.1.0` 保存首次发布的原始版本，尚未加入后续使用反馈中的改进。
+- `seven-step-paper-notes/v0.2.0` 更新三阶段中英名称，增加保存目录询问、关键图表提取与嵌入规则，以及 Obsidian 文献编号与脚注处理示例。
 - GitHub 仓库与本机已安装技能需显式同步；推送仓库不会自动更新本机安装。
 
 ## 来源
