@@ -1,0 +1,7 @@
+interface:
+  display_name: "七步论文精读笔记"
+  short_description: "用七步法批判性分析论文并生成 Obsidian Markdown 笔记"
+  default_prompt: "使用 $seven-step-paper-notes 使用七步法分析这篇论文，并生成 Obsidian 笔记。"
+
+policy:
+  allow_implicit_invocation: false
